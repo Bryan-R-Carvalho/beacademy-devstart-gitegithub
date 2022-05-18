@@ -41,10 +41,10 @@ Adicionar o commit com mensagem :
 ```bash
   git commit -m "mensagem explicativa"
 ```
-selecionar qual branch deseja:
+selecionar a branch principal:
 
 ```bash
-  git branch -M Master ou main
+  git branch -M main
 ```
 Selecionar qual o repositório que sera enviado:
 
@@ -137,7 +137,4 @@ fazer a limpeza do stash:
 ```bash
  git stash drop
 ```
-## Aprendizados
-
-O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
 
